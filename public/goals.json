@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "goalName": "Consultation Services",
+    "goalDis": "PPL currently consists of 55 board-certified physicians. Some of our physicians have more than 30 years They are experienced and extremely professional",
+    "image": "https://ppointbd.com/wp-content/uploads/2022/01/doctor1.png"
+  },
+  {
+    "id": 2,
+    "goalName": "Emergency Services",
+    "goalDis": "Yes, you dont need to worry about how well the treatment will be and who will be treating, We are certified.",
+    "image": "https://ppointbd.com/wp-content/uploads/2022/01/emergency.png"
+  },
+  {
+    "id": 3,
+    "goalName": "Health Packages",
+    "goalDis": "We have a guideline through all the meaningful service packages.Comprehensive physical exams are essential in maintaining good health for you and your family",
+    "image": "https://ppointbd.com/wp-content/uploads/2022/01/Package.png"
+  },
+  {
+    "id": 4,
+    "goalName": "Easy to use",
+    "goalDis": "Get the best user experience on DocTime App. Search for a doctor and get an instant consultation.",
+    "image": "https://www.doctime.com.bd/images/welcome/just_in_few_taps/soccer-gear.svg"
+  },
+  {
+    "id": 5,
+    "goalName": "Any Time",
+    "goalDis": "Talk to a doctor within minutes. Our qualified network of doctors is available 24/7. You can get a consultation and prescription whenever you need.",
+    "image": "https://www.doctime.com.bd/images/welcome/just_in_few_taps/signs.svg"
+  },
+  {
+    "id": 6,
+    "goalName": "Trusted",
+    "goalDis": "DocTime's experienced doctors, specialists and therapists are selected carefully. Safety and quality is at the heart of everything we do. ",
+    "image": "https://www.doctime.com.bd/images/welcome/just_in_few_taps/shield.svg"
+  }
+]

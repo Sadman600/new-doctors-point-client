@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sanchita Kanti",
+    "education": "MBBS",
+    "description": "Telehealth is fueled by digital technologies and DocTime telemedicine app has brought a great revolution in medical services specially an overpopulated country like Bangladesh where virtual chamber can create at anywhere thoughout country.I'm very happy to be a part of DocTime. Best wishes.",
+    "img": "https://api.lorem.space/image/face?hash=88560"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Puja Majumder",
+    "education": "MBBS",
+    "description": "Doctors Point enlightens my superpower each and every time...!I find DocTime a brand-able telemedicine platform with virtual waiting room, video consultation, e-prescription, beautifully planned user interface.Thank you for giving me the opportunity to serve humanity! Wishing you all the best!!",
+    "img": "https://api.lorem.space/image/face?hash=47449"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Jhon Doe",
+    "education": "MBBS",
+    "description": "DocTime, a telemedicine app, integrates secure health communications, virtual care workflows to build and grow any telehealth platform. Which can easily save money, time and sufferings of rural people of Bangladesh.",
+    "img": "https://api.lorem.space/image/face?hash=3174"
+  }
+]
