@@ -18,7 +18,7 @@ const BookingModal = ({ treatment, date, setTreatment, refetch }) => {
             patientEmail: user.email,
             phone: e.target.phone.value
         };
-        fetch('http://localhost:5000/booking', {
+        fetch('https://fathomless-wave-72199.herokuapp.com/booking', {
             method: 'POST',
             body: JSON.stringify(booking),
             headers: {

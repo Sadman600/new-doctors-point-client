@@ -12,7 +12,7 @@ const MyAppointments = () => {
   const [user] = useAuthState(auth);
   const navigate = useNavigate();
   useEffect(() => {
-    fetch(`http://localhost:5000/booking?patientEmail=${user?.email}`, {
+    fetch(`https://fathomless-wave-72199.herokuapp.com/booking?patientEmail=${user?.email}`, {
       method: 'GET',
       headers: {
         'authorization': `Bearer ${localStorage.getItem('accessToken')}`,
@@ -29,7 +29,7 @@ const MyAppointments = () => {
       .then((data) => setAppointments(data));
   }, [navigate, user]);
   //     const { isLoading,data } = useQuery(['booking', user], () =>
-  //      fetch(`http://localhost:5000/booking?patientEmail =${user?.email}`).then(res =>
+  //      fetch(`https://fathomless-wave-72199.herokuapp.com/booking?patientEmail =${user?.email}`).then(res =>
   //        res.json()
   //      )
   //    )
